@@ -32,3 +32,17 @@ Implement a scoring system with a leaderboard.
 Enhance graphics and sound effects for a more immersive experience.
 Conclusion
 Space Invaders is a testament to the versatility of Python and Pygame in game development. This project not only reimagines a timeless classic but also showcases the potential of programming for creating interactive and enjoyable games.
+
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/c1f502a0-cb33-4dac-8c6a-8e26ae49a30e)
+
+![image](https://github.com/user-attachments/assets/35639164-12c0-4d49-b316-973892d7214f)
+
+![image](https://github.com/user-attachments/assets/e010487a-7ccb-4089-9fd1-ab743bd4b60a)
+
+![image](https://github.com/user-attachments/assets/b322d340-8b9e-4093-b178-30243e85bbf2)
+
+
+
+
